@@ -5,11 +5,11 @@
   <a href="https://komarev.com/ghpvc/?username=Snowman01011">
     <img src="https://komarev.com/ghpvc/?username=Snowman01011&label=Profile%20views&color=00FFFF&style=flat-square" alt="Snowman01011's profile views" />
   </a>
+  <a href="https://user-badge.committers.top/nepal_private/Snowman01011">
+    <img src="https://user-badge.committers.top/nepal_private/Snowman01011.svg" alt="Nepal GitHub Rank">
+  </a>
 </p>
-
 <img src="pixelart.gif" alt="Banner" width="100%" />
-
-[![committers.top badge](https://user-badge.committers.top/nepal_private/Snowman01011.svg)](https://user-badge.committers.top/nepal_private/Snowman01011)
 
 ## 📊 GitHub Stats & Trophies
 <p align="center">
