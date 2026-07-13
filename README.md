@@ -7,6 +7,9 @@
   </a>
 </p>
 
+[![committers.top badge](https://user-badge.committers.top/nepal_private/USERNAME.svg)](https://user-badge.committers.top/nepal_private/USERNAME)
+
+
 <img src="pixelart.gif" alt="Banner" width="100%" />
 
 ## 📊 GitHub Stats & Trophies
