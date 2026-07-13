@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Snowman01011&theme=darkhub&no-bg=true&no-frame=true" alt="GitHub Trophies" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Snowman01011&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
 </p>
 
 <img src="pixelart.gif" alt="Banner" width="100%" />
