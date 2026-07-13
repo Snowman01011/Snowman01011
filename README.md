@@ -7,7 +7,7 @@
   </a>
 </p>
 
-<img src="giphy.gif" alt="Banner" width="100%" />
+<img src="pixelart.gif" alt="Banner" width="100%" />
 
 ## 📊 GitHub Stats & Trophies
 <p align="center">
