@@ -7,7 +7,7 @@
   </a>
 </p>
 
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmwxM2Z3aXpycWV2YnhwMTE2cGxsY3FnNWV0dXhsczlpNnRmdzgxZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qrtxxe638kXlhKBDxg/giphy.gif" alt="Banner" width="100%" />
+<img src="giphy.gif" alt="Banner" width="100%" />
 
 ## 📊 GitHub Stats & Trophies
 <p align="center">
