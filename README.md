@@ -2,13 +2,15 @@
 <h3 align="center">Graphics/Frontend Designer</h3>
 
 <p align="center">
-  <a href="https://komarev.com/ghpvc/?username=Snowman01011">
+  <a href="https://komarev.com/ghpvc/?username=Snowman01011" margin="10px>
     <img src="https://komarev.com/ghpvc/?username=Snowman01011&label=Profile%20views&color=00FFFF&style=flat-square" alt="Snowman01011's profile views" />
   </a>
-  <a href="https://user-badge.committers.top/nepal_private/Snowman01011">
+  
+  <a href="https://user-badge.committers.top/nepal_private/Snowman01011" margin="10px">
     <img src="https://user-badge.committers.top/nepal_private/Snowman01011.svg" alt="Nepal GitHub Rank">
   </a>
 </p>
+
 <img src="pixelart.gif" alt="Banner" width="100%" />
 
 ## 📊 GitHub Stats & Trophies
