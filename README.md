@@ -2,12 +2,13 @@
 <h3 align="center">Graphics/Frontend Designer</h3>
 
 <p align="center">
+  
+  [![committers.top badge](https://user-badge.committers.top/nepal_private/USERNAME.svg)](https://user-badge.committers.top/nepal_private/Snowman01011)
+  
   <a href="https://komarev.com/ghpvc/?username=Snowman01011">
     <img src="https://komarev.com/ghpvc/?username=Snowman01011&label=Profile%20views&color=00FFFF&style=flat-square" alt="Snowman01011's profile views" />
   </a>
 </p>
-
-[![committers.top badge](https://user-badge.committers.top/nepal_private/USERNAME.svg)](https://user-badge.committers.top/nepal_private/USERNAME)
 
 
 <img src="pixelart.gif" alt="Banner" width="100%" />
