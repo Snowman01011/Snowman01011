@@ -5,13 +5,9 @@
   <a href="https://komarev.com/ghpvc/?username=Snowman01011" margin="10px">
     <img src="https://komarev.com/ghpvc/?username=Snowman01011&label=Profile%20views&color=00FFFF&style=flat-square" alt="Snowman01011's profile views" />
   </a>
-
-  [![committers.top badge](https://user-badge.committers.top/nepal_private/Snowman01011.svg)](https://user-badge.committers.top/nepal_private/Snowman01011)
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Snowman01011&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
-</p>
+[![committers.top badge](https://user-badge.committers.top/nepal_private/Snowman01011.svg)](https://user-badge.committers.top/nepal_private/Snowman01011)
 
 <img src="pixelart.gif" alt="Banner" width="100%" />
 
