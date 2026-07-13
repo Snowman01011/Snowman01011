@@ -1,7 +1,7 @@
 <h1 align="center">Yo <img src="https://raw.githubusercontent.com/sindresorhus/sindresorhus/refs/heads/main/cat-typing.gif" height="30px" width="30px"> I'm Snowman</h1>
 <h3 align="center">Graphics/Frontend Designer</h3>
 
-<p align="center">
+<p align="center" gap="10">
   <a href="https://komarev.com/ghpvc/?username=Snowman01011" margin="10px">
     <img src="https://komarev.com/ghpvc/?username=Snowman01011&label=Profile%20views&color=00FFFF&style=flat-square" alt="Snowman01011's profile views" />
   </a>
