@@ -9,11 +9,7 @@
 
 <img src="pixelart.gif" alt="Banner" width="100%" />
 
-<center>
-  
 [![committers.top badge](https://user-badge.committers.top/nepal_private/Snowman01011.svg)](https://user-badge.committers.top/nepal_private/Snowman01011)
-
-</center>
 
 ## 📊 GitHub Stats & Trophies
 <p align="center">
