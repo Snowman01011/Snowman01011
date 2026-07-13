@@ -9,6 +9,9 @@
   [![committers.top badge](https://user-badge.committers.top/nepal_private/Snowman01011.svg)](https://user-badge.committers.top/nepal_private/Snowman01011)
 </p>
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Snowman01011&theme=darkhub&no-bg=true&no-frame=true" alt="GitHub Trophies" />
+</p>
 
 <img src="pixelart.gif" alt="Banner" width="100%" />
 
